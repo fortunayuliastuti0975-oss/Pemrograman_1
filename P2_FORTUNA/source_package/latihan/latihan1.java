@@ -11,7 +11,8 @@ public class latihan1 {
         String[] programStudi = new String[100];
         String[] fakultas = new String[100];
         String[] kelas = new String[100];
-        int jumlahData = 0; 
+        
+        int jumlahData = 0;
         int pilihan;
 
         do {

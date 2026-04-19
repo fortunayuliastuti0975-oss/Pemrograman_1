@@ -32,5 +32,4 @@ public class tugas1 {
         System.out.println("Transport = " + persenTransport + "%");
         System.out.println("Belanja   = " + persenBelanja + "%");
     }
-    
 }
